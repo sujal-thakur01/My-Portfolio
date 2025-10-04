@@ -83,7 +83,7 @@ VITE_APP_EMAILJS_PUBLIC_KEY=your_emailjs_public_key
 
 🔹 **Get these credentials** from [EmailJS](https://www.emailjs.com/).
 
-#### 4️⃣ Run the Project Locally
+#### 4️⃣ Run the Project locally in your enviornment
 
 ```bash
 npm run dev
